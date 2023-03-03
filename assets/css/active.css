@@ -1,0 +1,81 @@
+/*Header active*/
+.container__header.active{
+    background: var(--header2);
+    
+}
+.linav.active{
+    color: var(--texto2);
+}
+.nav__btn.active{
+    border: solid var(--interes2) 1.8px;
+}
+.btnsun.active{
+    background: var(--header2);
+      color: var(--interes2);
+}
+.btnmoon.active{
+    background: var(--header2);
+    color: var(--texto2);
+}
+/* Banner active*/
+
+.container__banner.active{
+    background-color: var(--header2);
+    box-shadow: rgba(66, 66, 78, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(59, 67, 75, 0.35) 0px -2px 6px 0px inset;
+}
+.name.active{
+    color: var(--texto2);
+}
+.job.active{
+    color: var(--texto2)
+}
+.banner__inicio .container__banner .banner__redes .banner__red.active{
+    color: var(--texto2);
+    border: 1px solid var(--texto2);
+}
+/* sobre mi */
+.sobremi.active{
+    background-color: var(--header2);
+    color: var(--texto2);
+}
+.sobremi .fila .col .contenedor-intereses .interes.active {
+    background-color: var(--interes2);
+}
+.sobremi .fila .col .contenedor-intereses .interes.active:hover {
+    background-color: var(--color-logo);
+  }
+
+  .btncv.active{
+    border: 2px solid var(--texto2);
+    color: var(--texto2);
+  }
+
+  .portafolio.active{
+    background-color: var(--interes2);
+    color: var(--texto2);
+  }
+
+  .contacto.active{
+    background-color: var(--header2);
+    color: var(--texto2);
+  }
+  .contacto .col .input.active{
+    background-color: var(--interes2);
+    color: var(--texto2);
+  }
+  .btnmen.active{
+    border: 2px solid var(--texto2);
+    color: var(--texto2);
+  }
+
+  footer.active{
+    background-color: var(--interes2);
+    color: var(--texto2);
+  }
+  footer .footer__redes .afoot.active{
+    color: var(--texto2);
+    border: 1px solid var(--texto2);
+  } 
+  nav.responsive.active{
+    background-color: var(--interes2);
+  }

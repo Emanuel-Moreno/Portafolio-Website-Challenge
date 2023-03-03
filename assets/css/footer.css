@@ -1,0 +1,30 @@
+footer {
+  background-color: var(--color-interes);
+  color: var(--color-texto);
+  padding: 50px 0 30px 0;
+  text-align: center;
+  position: relative;
+  width: 100%;
+  
+ 
+  }
+
+  footer .footer__redes .afoot {
+    color: var(--color-texto);
+  display: inline-block;
+  text-decoration: none;
+  border: 1px solid var(--color-texto);
+  border-radius: 100%;
+  width: 42px;
+  height: 42px;
+  line-height: 42px;
+  margin: 40px 5px;
+  font-size: 20px;
+  transition: 0.3s;
+  }
+.footername{
+    color: gray;
+    font-weight: bold;
+
+}
+

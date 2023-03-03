@@ -1,0 +1,20 @@
+:root {
+  --color-fondo-header: #F9F7F7;
+  --color-interes: #DBE2EF;
+  --color-logo: #00ADB5;
+  --color-texto: #112D4E;
+  --header2: #222831;
+  --texto2: #EEEEEE;
+  --interes2:#393E46;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: "Work Sans";
+  margin: 0;
+  padding: 0;
+}
+
